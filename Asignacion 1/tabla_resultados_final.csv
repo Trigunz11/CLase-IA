@@ -1,0 +1,4 @@
+Configuracion,Accuracy,Accuracy_%
+crudo_k3_euclidiana,0.759493670886076,75.95
+minmax_k3_euclidiana,0.7088607594936709,70.89
+zscore_k3_euclidiana,0.7974683544303798,79.75
